@@ -1,5 +1,3 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Web APIs & NLP
-
 ### Problem Statement
 The goal of this project is to make a model that predicts whether a post came from the r/history subreddit or the r/worldnews subreddit.
 I want to be able to distinguish whether and event is a current one or a historical one.
